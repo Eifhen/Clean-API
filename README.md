@@ -34,7 +34,7 @@ La API cuenta con los siguientes mantenimientos
 
 La API cuenta con funcionalidades para el manejo de errores los cuales se escriben en un fichero 
 de texto para poder tener un registro de los mismos ( ver clase ErrorHandler y ErrorManager ) y el logeo de todas las operaciones que se realizan, la API también cuenta con repositorios genéricos, transacciones para las operaciones de escritura en mongodb, paginación de la data,
-autenticación, manejo de variables de entorno y mucha más.
+autenticación, manejo de variables de entorno y mucho más.
 
 #### End Points
 
