@@ -1,0 +1,222 @@
+
+## Error ID: 668b2dbf 
+## Request ID: 88b48b98 
+## Type: ERROR 
+## Date: 2024-05-15,13:18:36.466Z 
+## Message: data must have required property 'id', data/age must be number 
+## Description: RequestError: data must have required property 'id', data/age must be number
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:197:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: ce2d7cf8 
+## Request ID: 36d1d064 
+## Type: ERROR 
+## Date: 2024-05-15,13:18:54.232Z 
+## Message: data/age must be number 
+## Description: RequestError: data/age must be number
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:197:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 0bc397ef 
+## Request ID: 178d533b 
+## Type: ERROR 
+## Date: 2024-05-15,13:44:25.993Z 
+## Message: data No deben existir propiedades adicionales 
+## Description: RequestError: data No deben existir propiedades adicionales
+    at BrandService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:49:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 87857adc 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-15,13:44:32.285Z 
+## Message: Expected double-quoted property name in JSON at position 46 
+## Description: SyntaxError: Expected double-quoted property name in JSON at position 46
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1589:12) 
+
+
+## Error ID: 84a4e160 
+## Request ID: 2630fea4 
+## Type: ERROR 
+## Date: 2024-05-15,13:58:44.819Z 
+## Message: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+## Description: RequestError: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'
+    at BrandService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:100:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: e0a72b45 
+## Request ID: 700b638a 
+## Type: ERROR 
+## Date: 2024-05-15,14:00:24.688Z 
+## Message: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+## Description: RequestError: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'
+    at BrandService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:100:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: cbd6169f 
+## Request ID: 80cdcc3f 
+## Type: ERROR 
+## Date: 2024-05-15,14:01:46.810Z 
+## Message: ID invalido 
+## Description: RequestError: ID invalido
+    at BrandService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:102:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 52ee0217 
+## Request ID: bb2387d9 
+## Type: ERROR 
+## Date: 2024-05-15,14:02:00.040Z 
+## Message: data No deben existir propiedades adicionales 
+## Description: RequestError: data No deben existir propiedades adicionales
+    at BrandService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:102:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 3e138a8f 
+## Request ID: 95a77f7d 
+## Type: ERROR 
+## Date: 2024-05-15,14:11:02.411Z 
+## Message: Cast to ObjectId failed for value "{ id: '6644c0a3d30b8f05ee38b4a0' }" (type Object) at path "_id" for model "Brand" 
+## Description: RequestError: Cast to ObjectId failed for value "{ id: '6644c0a3d30b8f05ee38b4a0' }" (type Object) at path "_id" for model "Brand"
+    at BrandService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:129:13)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:6:65)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: c69bf6af 
+## Request ID: 1ce1fce5 
+## Type: ERROR 
+## Date: 2024-05-15,14:12:05.291Z 
+## Message: Recurso no encontrado 
+## Description: RequestError: Recurso no encontrado
+    at BrandService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:129:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: f21e1612 
+## Request ID: f84c2e6e 
+## Type: ERROR 
+## Date: 2024-05-15,14:23:55.542Z 
+## Message: Recurso no encontrado 
+## Description: RequestError: Recurso no encontrado
+    at BrandService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:160:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: ec0ec315 
+## Request ID: ac639f58 
+## Type: ERROR 
+## Date: 2024-05-15,14:34:23.305Z 
+## Message: Cast to ObjectId failed for value "query" (type string) at path "_id" for model "Brand" 
+## Description: RequestError: Cast to ObjectId failed for value "query" (type string) at path "_id" for model "Brand"
+    at BrandService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:162:13)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:6:65)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: e8db0497 
+## Request ID: cb17afb6 
+## Type: ERROR 
+## Date: 2024-05-15,14:34:39.325Z 
+## Message: Cast to ObjectId failed for value "query" (type string) at path "_id" for model "Brand" 
+## Description: RequestError: Cast to ObjectId failed for value "query" (type string) at path "_id" for model "Brand"
+    at BrandService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:162:13)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:6:65)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: ff2cbeac 
+## Request ID: 16dc4f33 
+## Type: ERROR 
+## Date: 2024-05-15,14:34:42.177Z 
+## Message: Cast to ObjectId failed for value "query" (type string) at path "_id" for model "Brand" 
+## Description: RequestError: Cast to ObjectId failed for value "query" (type string) at path "_id" for model "Brand"
+    at BrandService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:162:13)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:6:65)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 1090dab5 
+## Request ID: b8100143 
+## Type: ERROR 
+## Date: 2024-05-15,14:36:14.643Z 
+## Message: Cast to ObjectId failed for value "query" (type string) at path "_id" for model "Brand" 
+## Description: RequestError: Cast to ObjectId failed for value "query" (type string) at path "_id" for model "Brand"
+    at BrandService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:162:13)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:6:65)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: afd7dbff 
+## Request ID: 5b207020 
+## Type: ERROR 
+## Date: 2024-05-15,14:37:05.991Z 
+## Message: Cast to ObjectId failed for value "query" (type string) at path "_id" for model "Brand" 
+## Description: RequestError: Cast to ObjectId failed for value "query" (type string) at path "_id" for model "Brand"
+    at BrandService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:162:13)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:6:65)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 4f3ef8a6 
+## Request ID: 391a9ca2 
+## Type: ERROR 
+## Date: 2024-05-15,14:37:50.372Z 
+## Message: Cast to ObjectId failed for value "query" (type string) at path "_id" for model "Brand" 
+## Description: RequestError: Cast to ObjectId failed for value "query" (type string) at path "_id" for model "Brand"
+    at BrandService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:162:13)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:6:65)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: a962c24c 
+## Request ID: e9a48247 
+## Type: ERROR 
+## Date: 2024-05-15,14:38:39.102Z 
+## Message: Cast to ObjectId failed for value "query" (type string) at path "_id" for model "Brand" 
+## Description: RequestError: Cast to ObjectId failed for value "query" (type string) at path "_id" for model "Brand"
+    at BrandService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:162:13)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\BrandService.ts:6:65)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+

@@ -1,0 +1,114 @@
+
+## Error ID: 2d93773d 
+## Request ID: 332088d7 
+## Type: ERROR 
+## Date: 2024-05-22,11:32:29.277Z 
+## Message: data No deben existir propiedades adicionales 
+## Description: RequestError: data No deben existir propiedades adicionales
+    at SalesService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:166:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: cad57a90 
+## Request ID: 703ac548 
+## Type: ERROR 
+## Date: 2024-05-22,11:36:17.971Z 
+## Message: Cast to ObjectId failed for value "xxx" (type string) at path "_id" for model "Users" 
+## Description: RequestError: Cast to ObjectId failed for value "xxx" (type string) at path "_id" for model "Users"
+    at SalesService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:166:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 832a7517 
+## Request ID: ecbfdc2b 
+## Type: ERROR 
+## Date: 2024-05-22,11:39:29.583Z 
+## Message: data must have required property 'currentPage', data must have required property 'pageSize' 
+## Description: RequestError: data must have required property 'currentPage', data must have required property 'pageSize'
+    at SalesService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:114:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:4:12)
+    at SalesService.GetByQuery (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:90:129)
+    at SalesController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\SalesController.ts:46:46)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\SalesController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: 934e5adc 
+## Request ID: 410145a6 
+## Type: ERROR 
+## Date: 2024-05-22,11:41:49.225Z 
+## Message: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+## Description: RequestError: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'
+    at SalesService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:213:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 02a812af 
+## Request ID: b67484ee 
+## Type: ERROR 
+## Date: 2024-05-22,11:42:49.836Z 
+## Message: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+## Description: RequestError: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'
+    at SalesService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:213:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: f41a874c 
+## Request ID: b2a29f81 
+## Type: ERROR 
+## Date: 2024-05-22,11:42:52.456Z 
+## Message: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+## Description: RequestError: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'
+    at SalesService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:213:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: fe1419f5 
+## Request ID: 968138c4 
+## Type: ERROR 
+## Date: 2024-05-22,11:44:50.533Z 
+## Message: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+## Description: RequestError: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'
+    at SalesService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:221:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: fe1bf2d6 
+## Request ID: b071084b 
+## Type: ERROR 
+## Date: 2024-05-22,11:46:49.954Z 
+## Message: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+## Description: RequestError: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'
+    at SalesService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:223:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 533a6cce 
+## Request ID: e13c219f 
+## Type: ERROR 
+## Date: 2024-05-22,11:49:19.216Z 
+## Message: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+## Description: RequestError: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'
+    at SalesService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:223:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+

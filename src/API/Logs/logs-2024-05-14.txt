@@ -1,0 +1,410 @@
+
+## Error ID: 620f282b 
+## Request ID: 3dcd9847 
+## Type: ERROR 
+## Date: 2024-05-14,11:35:20.013Z 
+## Message: error al crear 
+## Description: RequestError: error al crear
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:102:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: de69e5cc 
+## Request ID: 09743311 
+## Type: ERROR 
+## Date: 2024-05-14,11:38:37.421Z 
+## Message: error al crear 
+## Description: RequestError: error al crear
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:102:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 3c062661 
+## Request ID: 5170647d 
+## Type: ERROR 
+## Date: 2024-05-14,11:43:03.105Z 
+## Message: E11000 duplicate key error collection: shoebox.users index: Email_1 dup key: { Email: "jimenezg3525@gmail.com" } 
+## Description: RequestError: E11000 duplicate key error collection: shoebox.users index: Email_1 dup key: { Email: "jimenezg3525@gmail.com" }
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:100:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: e7aff9c6 
+## Request ID: 23fee2ad 
+## Type: ERROR 
+## Date: 2024-05-14,11:46:04.979Z 
+## Message: E11000 duplicate key error collection: shoebox.users index: Email_1 dup key: { Email: "jimenezg3525@gmail.com" } 
+## Description: RequestError: E11000 duplicate key error collection: shoebox.users index: Email_1 dup key: { Email: "jimenezg3525@gmail.com" }
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:103:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: e8949a5e 
+## Request ID: 3328950d 
+## Type: ERROR 
+## Date: 2024-05-14,11:46:55.697Z 
+## Message: E11000 duplicate key error collection: shoebox.users index: Email_1 dup key: { Email: "jimenezg3525@gmail.com" } 
+## Description: RequestError: E11000 duplicate key error collection: shoebox.users index: Email_1 dup key: { Email: "jimenezg3525@gmail.com" }
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:103:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 74fe023c 
+## Request ID: 48234784 
+## Type: ERROR 
+## Date: 2024-05-14,11:47:21.440Z 
+## Message: E11000 duplicate key error collection: shoebox.users index: Email_1 dup key: { Email: "jimenezg3525@gmail.com" } 
+## Description: RequestError: E11000 duplicate key error collection: shoebox.users index: Email_1 dup key: { Email: "jimenezg3525@gmail.com" }
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:103:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 8ebdaef1 
+## Request ID: 0fb7bcc6 
+## Type: ERROR 
+## Date: 2024-05-14,11:48:29.653Z 
+## Message: E11000 duplicate key error collection: shoebox.users index: Email_1 dup key: { Email: "jimenezg355@gmail.com" } 
+## Description: RequestError: E11000 duplicate key error collection: shoebox.users index: Email_1 dup key: { Email: "jimenezg355@gmail.com" }
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:105:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: a07c9e6d 
+## Request ID: undefined 
+## Type: SERVER 
+## Date: 2024-05-14,12:03:43.060Z 
+## Message: {"reason":{},"promise":{}} 
+## Description:  
+
+
+## Error ID: 8f3452f4 
+## Request ID: 1dd4b5d8 
+## Type: ERROR 
+## Date: 2024-05-14,12:03:43.061Z 
+## Message: Error interno del servidor 
+## Description:  
+
+
+## Error ID: 493b3208 
+## Request ID: ede93bdc 
+## Type: ERROR 
+## Date: 2024-05-14,12:24:43.341Z 
+## Message: Error token de authorizacion invalido 
+## Description: RequestError: Error token de authorizacion invalido
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\authentication.config.ts:21:13
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\authentication.config.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\authentication.config.ts:4:12)
+    at Authentication (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\authentication.config.ts:20:12)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5) 
+
+
+## Error ID: 975b7383 
+## Request ID: 2ceb59b7 
+## Type: ERROR 
+## Date: 2024-05-14,15:19:14.071Z 
+## Message: Error token de authorizacion invalido 
+## Description: RequestError: Error token de authorizacion invalido
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\authentication.config.ts:24:13
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\authentication.config.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\authentication.config.ts:4:12)
+    at Authenticate (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\authentication.config.ts:20:12)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5) 
+
+
+## Error ID: 07309f89 
+## Request ID: undefined 
+## Type: SERVER 
+## Date: 2024-05-14,15:20:56.477Z 
+## Message: {"reason":{"status":500,"name":"RequestError","path":"C:\\Users\\jimen\\Documents\\AZ\\CodeFiles\\CodeProyects\\NodeJs\\DependencyInjection\\src\\Utils\\TokenManager\\TokenManager.ts","date":"2024-05-14T15:20:56.197Z"},"promise":{}} 
+## Description:  
+
+
+## Error ID: eb566a89 
+## Request ID: undefined 
+## Type: SERVER 
+## Date: 2024-05-14,15:21:59.345Z 
+## Message: {"reason":{"status":500,"name":"RequestError","path":"C:\\Users\\jimen\\Documents\\AZ\\CodeFiles\\CodeProyects\\NodeJs\\DependencyInjection\\src\\Utils\\TokenManager\\TokenManager.ts","date":"2024-05-14T15:21:59.238Z"},"promise":{}} 
+## Description:  
+
+
+## Error ID: c6175e7d 
+## Request ID: 5f3cb3e4 
+## Type: ERROR 
+## Date: 2024-05-14,15:22:57.799Z 
+## Message: Error al decodificar el token 
+## Description: RequestError: Error al decodificar el token
+    at TokenManager.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Utils\TokenManager\TokenManager.ts:48:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Utils\TokenManager\TokenManager.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Utils\TokenManager\TokenManager.ts:4:12)
+    at TokenManager.Decode (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Utils\TokenManager\TokenManager.ts:40:74)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\authentication.config.ts:19:41
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\authentication.config.ts:8:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: 6a501f64 
+## Request ID: 5995dd70 
+## Type: ERROR 
+## Date: 2024-05-14,15:23:43.954Z 
+## Message: Error al decodificar el token 
+## Description: RequestError: Error al decodificar el token
+    at TokenManager.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Utils\TokenManager\TokenManager.ts:48:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Utils\TokenManager\TokenManager.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Utils\TokenManager\TokenManager.ts:4:12)
+    at TokenManager.Decode (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Utils\TokenManager\TokenManager.ts:40:74)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\authentication.config.ts:18:41
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\authentication.config.ts:8:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: 4a3e2cc3 
+## Request ID: d61f218c 
+## Type: ERROR 
+## Date: 2024-05-14,19:27:31.954Z 
+## Message: Error interno del servidor 
+## Description: RequestError: Error interno del servidor
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:155:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 0079373d 
+## Request ID: 06e15417 
+## Type: ERROR 
+## Date: 2024-05-14,19:28:31.324Z 
+## Message: Users validation failed: IP_Address: Path `IP_Address` is required., Password: Path `Password` is required. 
+## Description: RequestError: Users validation failed: IP_Address: Path `IP_Address` is required., Password: Path `Password` is required.
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:155:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: f78b79e2 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-14,19:28:50.940Z 
+## Message: Expected double-quoted property name in JSON at position 184 
+## Description: SyntaxError: Expected double-quoted property name in JSON at position 184
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1589:12) 
+
+
+## Error ID: bea82cdd 
+## Request ID: e1504c82 
+## Type: ERROR 
+## Date: 2024-05-14,19:28:58.993Z 
+## Message: Users validation failed: IP_Address: Path `IP_Address` is required., Password: Path `Password` is required. 
+## Description: RequestError: Users validation failed: IP_Address: Path `IP_Address` is required., Password: Path `Password` is required.
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:155:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 880b1177 
+## Request ID: 98c400b9 
+## Type: ERROR 
+## Date: 2024-05-14,19:29:06.087Z 
+## Message: Users validation failed: IP_Address: Path `IP_Address` is required., Password: Path `Password` is required. 
+## Description: RequestError: Users validation failed: IP_Address: Path `IP_Address` is required., Password: Path `Password` is required.
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:155:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 82fb7fc4 
+## Request ID: 26663007 
+## Type: ERROR 
+## Date: 2024-05-14,19:29:37.878Z 
+## Message: Users validation failed: Password: Path `Password` is required. 
+## Description: RequestError: Users validation failed: Password: Path `Password` is required.
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:156:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 9fa8e7e7 
+## Request ID: 6cc9ad6d 
+## Type: ERROR 
+## Date: 2024-05-14,19:29:54.156Z 
+## Message: Cannot read properties of undefined (reading 'toString') 
+## Description: RequestError: Cannot read properties of undefined (reading 'toString')
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:156:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 4e0ff561 
+## Request ID: c41371f2 
+## Type: ERROR 
+## Date: 2024-05-14,19:31:41.544Z 
+## Message: Cannot read properties of undefined (reading 'toString') 
+## Description: RequestError: Cannot read properties of undefined (reading 'toString')
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:157:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: d262b045 
+## Request ID: 04a10748 
+## Type: ERROR 
+## Date: 2024-05-14,19:36:26.386Z 
+## Message: Cannot read properties of undefined (reading 'toString') 
+## Description: RequestError: Cannot read properties of undefined (reading 'toString')
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:157:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 34b17052 
+## Request ID: 2f0dfe81 
+## Type: ERROR 
+## Date: 2024-05-14,19:36:43.870Z 
+## Message: Cannot read properties of undefined (reading 'toString') 
+## Description: RequestError: Cannot read properties of undefined (reading 'toString')
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:157:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: db9ce3bf 
+## Request ID: 215dc0a6 
+## Type: ERROR 
+## Date: 2024-05-14,19:39:47.681Z 
+## Message: Cannot read properties of undefined (reading 'toString') 
+## Description: RequestError: Cannot read properties of undefined (reading 'toString')
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:160:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: a4795ae6 
+## Request ID: 4c29d0be 
+## Type: ERROR 
+## Date: 2024-05-14,19:41:21.715Z 
+## Message: Cannot read properties of undefined (reading 'toString') 
+## Description: RequestError: Cannot read properties of undefined (reading 'toString')
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:160:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 5759aedb 
+## Request ID: 3e0104cb 
+## Type: ERROR 
+## Date: 2024-05-14,19:41:50.351Z 
+## Message: Cannot read properties of undefined (reading 'toString') 
+## Description: RequestError: Cannot read properties of undefined (reading 'toString')
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:160:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 5e910127 
+## Request ID: 7b48cd73 
+## Type: ERROR 
+## Date: 2024-05-14,19:51:35.843Z 
+## Message: Recurso no encontrado 
+## Description: RequestError: Recurso no encontrado
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:183:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 373cf926 
+## Request ID: 69f3f98e 
+## Type: ERROR 
+## Date: 2024-05-14,21:12:29.470Z 
+## Message: E11000 duplicate key error collection: shoebox.users index: Email_1 dup key: { Email: "emily@gmail.com" } 
+## Description: RequestError: E11000 duplicate key error collection: shoebox.users index: Email_1 dup key: { Email: "emily@gmail.com" }
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:188:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 71c0c0c6 
+## Request ID: 607b2e84 
+## Type: ERROR 
+## Date: 2024-05-14,21:21:35.954Z 
+## Message: Recurso no encontrado 
+## Description: RequestError: Recurso no encontrado
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:114:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 4c812b79 
+## Request ID: 63d608b8 
+## Type: ERROR 
+## Date: 2024-05-14,21:21:48.336Z 
+## Message: Recurso no encontrado 
+## Description: RequestError: Recurso no encontrado
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:114:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 80367dc6 
+## Request ID: 348c139d 
+## Type: ERROR 
+## Date: 2024-05-14,21:22:03.335Z 
+## Message: Recurso no encontrado 
+## Description: RequestError: Recurso no encontrado
+    at UserService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:114:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\UserService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+

@@ -1,0 +1,176 @@
+
+## Error ID: 338c4e6d 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-27,12:41:37.076Z 
+## Message: Expected double-quoted property name in JSON at position 152 
+## Description: SyntaxError: Expected double-quoted property name in JSON at position 152
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1589:12) 
+
+
+## Error ID: 7a66538e 
+## Request ID: 6d36e79b 
+## Type: ERROR 
+## Date: 2024-05-27,12:41:47.657Z 
+## Message: data/size must be number, data/price must be string 
+## Description: RequestError: data/size must be number, data/price must be string
+    at ShoesService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\ShoesService.ts:162:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\ShoesService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 1e437c2b 
+## Request ID: c807038f 
+## Type: ERROR 
+## Date: 2024-05-27,12:48:21.089Z 
+## Message: data No deben existir propiedades adicionales 
+## Description: RequestError: data No deben existir propiedades adicionales
+    at ShoesService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\ShoesService.ts:201:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\ShoesService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 3194588d 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-27,12:48:29.489Z 
+## Message: Expected double-quoted property name in JSON at position 189 
+## Description: SyntaxError: Expected double-quoted property name in JSON at position 189
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1589:12) 
+
+
+## Error ID: e29f39a7 
+## Request ID: undefined 
+## Type: SERVER 
+## Date: 2024-05-27,12:53:14.765Z 
+## Message: {"reason":{},"promise":{}} 
+## Description:  
+
+
+## Error ID: 87293a1d 
+## Request ID: 385fb892 
+## Type: ERROR 
+## Date: 2024-05-27,12:56:01.433Z 
+## Message: data/price must be string 
+## Description: RequestError: data/price must be string
+    at SalesDetailService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesDetailService.ts:165:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesDetailService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 3e8674e2 
+## Request ID: d21e35b1 
+## Type: ERROR 
+## Date: 2024-05-27,12:57:17.217Z 
+## Message: data/price must be number 
+## Description: RequestError: data/price must be number
+    at SalesDetailService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesDetailService.ts:165:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesDetailService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 81cc51db 
+## Request ID: 61300840 
+## Type: ERROR 
+## Date: 2024-05-27,13:00:02.591Z 
+## Message: data/price must be number 
+## Description: RequestError: data/price must be number
+    at SalesDetailService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesDetailService.ts:165:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesDetailService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 5d1b3341 
+## Request ID: 41f11baa 
+## Type: ERROR 
+## Date: 2024-05-27,13:01:13.660Z 
+## Message: Cast to ObjectId failed for value "detail" (type string) at path "_id" for model "Sales" 
+## Description: RequestError: Cast to ObjectId failed for value "detail" (type string) at path "_id" for model "Sales"
+    at SalesService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:82:13)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:6:65)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 29220745 
+## Request ID: 1a5127da 
+## Type: ERROR 
+## Date: 2024-05-27,13:01:32.550Z 
+## Message: Cast to ObjectId failed for value "detail" (type string) at path "_id" for model "Sales" 
+## Description: RequestError: Cast to ObjectId failed for value "detail" (type string) at path "_id" for model "Sales"
+    at SalesService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:82:13)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:6:65)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 31c377dc 
+## Request ID: 747cc90e 
+## Type: ERROR 
+## Date: 2024-05-27,13:02:22.835Z 
+## Message: Cast to ObjectId failed for value "detail" (type string) at path "_id" for model "Sales" 
+## Description: RequestError: Cast to ObjectId failed for value "detail" (type string) at path "_id" for model "Sales"
+    at SalesService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:82:13)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesService.ts:6:65)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: e8178416 
+## Request ID: 27ce1953 
+## Type: ERROR 
+## Date: 2024-05-27,13:03:58.079Z 
+## Message: data must have required property 'currentPage', data must have required property 'pageSize' 
+## Description: RequestError: data must have required property 'currentPage', data must have required property 'pageSize'
+    at SalesDetailService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesDetailService.ts:117:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesDetailService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesDetailService.ts:4:12)
+    at SalesDetailService.GetByQuery (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\SalesDetailService.ts:93:135)
+    at SalesDetailController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\SalesDetailController.ts:47:52)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\SalesDetailController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: 95da21eb 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-27,17:34:38.130Z 
+## Message: Error al validar el api key 
+## Description: RequestError: Error al validar el api key
+    at ApiKeyManager.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:31:15)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:4:12)
+    at ApiKeyManager.ValidateApiKey (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:20:101)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\index.js:346:12) 
+

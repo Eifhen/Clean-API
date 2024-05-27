@@ -1,0 +1,238 @@
+
+## Error ID: 42b264c7 
+## Request ID: 2013028e 
+## Type: ERROR 
+## Date: 2024-05-01,21:08:26.953Z 
+## Description: RequestError: Error de prueba
+    at ErrorManager.getException (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Infraestructura\Utils\ErrorHandler\ErrorManager.ts:20:19)
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:38:29)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:36:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5) 
+
+
+## Error ID: afc06bcd 
+## Request ID: 435c4923 
+## Type: ERROR 
+## Date: 2024-05-01,21:10:52.008Z 
+## Description: RequestError: Error de prueba
+    at ErrorManager.getException (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Infraestructura\Utils\ErrorHandler\ErrorManager.ts:20:19)
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:39:29)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:40:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5) 
+
+
+## Error ID: 23a3797f 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-01,22:21:43.507Z 
+## Description: RequestError: [{"instancePath":"/Type","schemaPath":"#/properties/Type/enum","keyword":"enum","params":{"allowedValues":["Seller","Client"]},"message":"must be equal to one of the allowed values"},{"instancePath":"/Email","schemaPath":"#/properties/Email/errorMessage","keyword":"errorMessage","params":{"errors":[{"instancePath":"/Email","schemaPath":"#/properties/Email/format","keyword":"format","params":{"format":"email"},"message":"must match format \"email\"","emUsed":true}]},"message":"El formato de email no es valido"}]
+    at ErrorManager.getException (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Infraestructura\Utils\ErrorHandler\ErrorManager.ts:20:19)
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:52:32)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignUp (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:42:80)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:27:34)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71 
+
+
+## Error ID: 69761d1b 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-01,22:24:59.666Z 
+## Description: RequestError: [{"instancePath":"/Type","schemaPath":"#/properties/Type/enum","keyword":"enum","params":{"allowedValues":["Seller","Client"]},"message":"must be equal to one of the allowed values"},{"instancePath":"/Email","schemaPath":"#/properties/Email/errorMessage","keyword":"errorMessage","params":{"errors":[{"instancePath":"/Email","schemaPath":"#/properties/Email/format","keyword":"format","params":{"format":"email"},"message":"must match format \"email\"","emUsed":true}]},"message":"El formato de email no es valido"}]
+    at ErrorManager.getException (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Infraestructura\Utils\ErrorHandler\ErrorManager.ts:20:19)
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:52:32)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignUp (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:42:80)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:28:72)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71 
+
+
+## Error ID: 98c11be1 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-01,22:25:55.211Z 
+## Description: RequestError: [{"instancePath":"/Type","schemaPath":"#/properties/Type/enum","keyword":"enum","params":{"allowedValues":["Seller","Client"]},"message":"must be equal to one of the allowed values"},{"instancePath":"/Email","schemaPath":"#/properties/Email/errorMessage","keyword":"errorMessage","params":{"errors":[{"instancePath":"/Email","schemaPath":"#/properties/Email/format","keyword":"format","params":{"format":"email"},"message":"must match format \"email\"","emUsed":true}]},"message":"El formato de email no es valido"}]
+    at ErrorManager.getException (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Infraestructura\Utils\ErrorHandler\ErrorManager.ts:20:19)
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:52:32)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignUp (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:42:80)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:28:72)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71 
+
+
+## Error ID: 7066fb63 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-01,22:26:11.591Z 
+## Description: RequestError: [{"instancePath":"/Type","schemaPath":"#/properties/Type/enum","keyword":"enum","params":{"allowedValues":["Seller","Client"]},"message":"must be equal to one of the allowed values"},{"instancePath":"/Email","schemaPath":"#/properties/Email/errorMessage","keyword":"errorMessage","params":{"errors":[{"instancePath":"/Email","schemaPath":"#/properties/Email/format","keyword":"format","params":{"format":"email"},"message":"must match format \"email\"","emUsed":true}]},"message":"El formato de email no es valido"}]
+    at ErrorManager.getException (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Infraestructura\Utils\ErrorHandler\ErrorManager.ts:20:19)
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:52:32)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignUp (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:42:80)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:28:72)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71 
+
+
+## Error ID: 02daa7c2 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-01,22:27:01.643Z 
+## Description: RequestError: [{"instancePath":"/Type","schemaPath":"#/properties/Type/enum","keyword":"enum","params":{"allowedValues":["Seller","Client"]},"message":"must be equal to one of the allowed values"},{"instancePath":"/Email","schemaPath":"#/properties/Email/errorMessage","keyword":"errorMessage","params":{"errors":[{"instancePath":"/Email","schemaPath":"#/properties/Email/format","keyword":"format","params":{"format":"email"},"message":"must match format \"email\"","emUsed":true}]},"message":"El formato de email no es valido"}]
+    at ErrorManager.getException (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Infraestructura\Utils\ErrorHandler\ErrorManager.ts:20:19)
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:53:32)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignUp (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:42:80)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:28:72)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71 
+
+
+## Error ID: 0c6c6431 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-01,22:27:39.674Z 
+## Description: RequestError: [{"instancePath":"/Email","schemaPath":"#/properties/Email/errorMessage","keyword":"errorMessage","params":{"errors":[{"instancePath":"/Email","schemaPath":"#/properties/Email/format","keyword":"format","params":{"format":"email"},"message":"must match format \"email\"","emUsed":true}]},"message":"El formato de email no es valido"}]
+    at ErrorManager.getException (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Infraestructura\Utils\ErrorHandler\ErrorManager.ts:20:19)
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:53:32)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignUp (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:42:80)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:28:72)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71 
+
+
+## Error ID: 57f06ee6 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-01,22:59:57.096Z 
+## Description: RequestError: [{"instancePath":"/Email","schemaPath":"#/properties/Email/errorMessage","keyword":"errorMessage","params":{"errors":[{"instancePath":"/Email","schemaPath":"#/properties/Email/format","keyword":"format","params":{"format":"email"},"message":"must match format \"email\"","emUsed":true}]},"message":"El formato de email no es valido"}]
+    at ErrorManager.getException (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Infraestructura\Utils\ErrorHandler\ErrorManager.ts:20:19)
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:54:32)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignUp (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:43:80)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:28:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71 
+
+
+## Error ID: b7d01086 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-01,23:00:48.005Z 
+## Description: RequestError: [{"instancePath":"/Email","schemaPath":"#/properties/Email/errorMessage","keyword":"errorMessage","params":{"errors":[{"instancePath":"/Email","schemaPath":"#/properties/Email/format","keyword":"format","params":{"format":"email"},"message":"must match format \"email\"","emUsed":true}]},"message":"El formato de email no es valido"}]
+    at ErrorManager.getException (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Infraestructura\Utils\ErrorHandler\ErrorManager.ts:20:19)
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:54:32)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignUp (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:43:80)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:28:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71 
+
+
+## Error ID: 80846e49 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-01,23:01:19.249Z 
+## Description: RequestError: [{"instancePath":"/Email","schemaPath":"#/properties/Email/errorMessage","keyword":"errorMessage","params":{"errors":[{"instancePath":"/Email","schemaPath":"#/properties/Email/format","keyword":"format","params":{"format":"email"},"message":"must match format \"email\"","emUsed":true}]},"message":"El formato de email no es valido"}]
+    at ErrorManager.getException (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Infraestructura\Utils\ErrorHandler\ErrorManager.ts:20:19)
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:55:32)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignUp (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:43:80)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:28:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71 
+
+
+## Error ID: 575e0253 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-01,23:01:44.112Z 
+## Description: RequestError: [{"instancePath":"/Email","schemaPath":"#/properties/Email/errorMessage","keyword":"errorMessage","params":{"errors":[{"instancePath":"/Email","schemaPath":"#/properties/Email/format","keyword":"format","params":{"format":"email"},"message":"must match format \"email\"","emUsed":true}]},"message":"El formato de email no es valido"}]
+    at ErrorManager.getException (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Infraestructura\Utils\ErrorHandler\ErrorManager.ts:20:19)
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:55:32)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignUp (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:43:80)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:28:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71 
+
+
+## Error ID: e5c682fd 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-01,23:27:09.953Z 
+## Description: RequestError: [{"instancePath":"/Email","schemaPath":"#/properties/Email/errorMessage","keyword":"errorMessage","params":{"errors":[{"instancePath":"/Email","schemaPath":"#/properties/Email/format","keyword":"format","params":{"format":"email"},"message":"must match format \"email\"","emUsed":true}]},"message":"El formato de email no es valido"}]
+    at ErrorManager.getException (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Infraestructura\Utils\ErrorHandler\ErrorManager.ts:20:19)
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:55:32)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignUp (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:43:80)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:28:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71 
+
+
+## Error ID: 008da5a5 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-01,23:27:37.138Z 
+## Description: RequestError: [{"instancePath":"/Email","schemaPath":"#/properties/Email/errorMessage","keyword":"errorMessage","params":{"errors":[{"instancePath":"/Email","schemaPath":"#/properties/Email/format","keyword":"format","params":{"format":"email"},"message":"must match format \"email\"","emUsed":true}]},"message":"El formato de email no es valido"}]
+    at ErrorManager.getException (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Infraestructura\Utils\ErrorHandler\ErrorManager.ts:20:19)
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:55:32)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignUp (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:43:80)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:28:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71 
+

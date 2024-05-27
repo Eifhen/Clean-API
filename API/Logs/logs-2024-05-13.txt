@@ -1,0 +1,140 @@
+
+## Error ID: ea4e9238 
+## Request ID: a7bbacc7 
+## Type: ERROR 
+## Date: 2024-05-13,13:25:29.185Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: 1fc4d8f6 
+## Request ID: a7bbacc7 
+## Type: ERROR 
+## Date: 2024-05-13,13:25:29.185Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: 0a894027 
+## Request ID: 2ec6244c 
+## Type: ERROR 
+## Date: 2024-05-13,13:34:58.116Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: e3033fd0 
+## Request ID: 2ec6244c 
+## Type: ERROR 
+## Date: 2024-05-13,13:34:58.117Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: 09fead8a 
+## Request ID: c837fefb 
+## Type: ERROR 
+## Date: 2024-05-13,13:41:09.706Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: 753aa090 
+## Request ID: e2d3968b 
+## Type: ERROR 
+## Date: 2024-05-13,13:41:29.389Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: 15e1af14 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,13:53:57.072Z 
+## Message: {"reason":{},"promise":{}} 
+## Description:  
+
+
+## Error ID: 31b99152 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,13:55:07.132Z 
+## Message: {"reason":{},"promise":{}} 
+## Description:  
+
+
+## Error ID: a3dd819f 
+## Request ID: 33fa3286 
+## Type: ERROR 
+## Date: 2024-05-13,13:55:07.133Z 
+## Message: undefined 
+## Description:  
+
+
+## Error ID: 65b8feb3 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,13:55:07.133Z 
+## Message: {"reason":{"code":"ERR_HTTP_INVALID_STATUS_CODE"},"promise":{}} 
+## Description:  
+

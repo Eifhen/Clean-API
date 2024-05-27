@@ -1,0 +1,1455 @@
+
+
+
+
+## Error ID: 1c52d4d6 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,13:58:17.375Z 
+## Message: {"reason":{},"promise":{}} 
+## Description:  
+
+
+## Error ID: c215a3ce 
+## Request ID: b30b5dba 
+## Type: ERROR 
+## Date: 2024-05-13,13:58:17.375Z 
+## Message: undefined 
+## Description:  
+
+
+## Error ID: 5195bed5 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,13:58:17.375Z 
+## Message: {"reason":{"code":"ERR_HTTP_INVALID_STATUS_CODE"},"promise":{}} 
+## Description:  
+
+
+## Error ID: c1f90e32 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,13:59:50.717Z 
+## Message: Error promesa rechazada 
+## Description:  
+
+
+## Error ID: 9de64cb3 
+## Request ID: e65ce6dd 
+## Type: ERROR 
+## Date: 2024-05-13,13:59:50.717Z 
+## Message: undefined 
+## Description:  
+
+
+## Error ID: 4a89866b 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,13:59:50.717Z 
+## Message: Invalid status code: undefined 
+## Description:  
+
+
+## Error ID: 65a4870a 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,14:00:57.829Z 
+## Message: Error promesa rechazada 
+## Description:  
+
+
+## Error ID: 1ba6a252 
+## Request ID: 57347e53 
+## Type: ERROR 
+## Date: 2024-05-13,14:00:57.830Z 
+## Message: undefined 
+## Description:  
+
+
+## Error ID: d45f0640 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,14:03:12.648Z 
+## Message: {"reason":{},"promise":{}} 
+## Description:  
+
+
+## Error ID: 038d248b 
+## Request ID: 7fa46f96 
+## Type: ERROR 
+## Date: 2024-05-13,14:03:12.649Z 
+## Message: undefined 
+## Description:  
+
+
+## Error ID: f2d244d3 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,14:04:18.267Z 
+## Message: {"reason":{},"promise":{}} 
+## Description:  
+
+
+## Error ID: 37eba402 
+## Request ID: 919dd5bf 
+## Type: ERROR 
+## Date: 2024-05-13,14:04:44.838Z 
+## Message: undefined 
+## Description:  
+
+
+## Error ID: ee2fb2bb 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,14:04:44.838Z 
+## Message: {"reason":{},"promise":{}} 
+## Description:  
+
+
+## Error ID: a287a904 
+## Request ID: undefined 
+## Type: SERVER 
+## Date: 2024-05-13,14:07:27.539Z 
+## Message: {"reason":{},"promise":{}} 
+## Description:  
+
+
+## Error ID: 50182764 
+## Request ID: 4f8668c9 
+## Type: ERROR 
+## Date: 2024-05-13,14:07:27.539Z 
+## Message: undefined 
+## Description:  
+
+
+## Error ID: da9b63a0 
+## Request ID: undefined 
+## Type: SERVER 
+## Date: 2024-05-13,14:12:30.614Z 
+## Message: Error promesa rechazada 
+## Description:  
+
+
+## Error ID: 774061e5 
+## Request ID: 7bdd0ee8 
+## Type: ERROR 
+## Date: 2024-05-13,14:12:30.615Z 
+## Message: undefined 
+## Description:  
+
+
+## Error ID: 047c38fb 
+## Request ID: 2726ba52 
+## Type: ERROR 
+## Date: 2024-05-13,14:14:40.857Z 
+## Message: Error interno del servidor 
+## Description:  
+
+
+## Error ID: 8a6f9266 
+## Request ID: undefined 
+## Type: SERVER 
+## Date: 2024-05-13,14:14:40.856Z 
+## Message: Error promesa rechazada 
+## Description:  
+
+
+## Error ID: d8d85a4c 
+## Request ID: 451ab3c7 
+## Type: ERROR 
+## Date: 2024-05-13,14:14:57.701Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: fcad38db 
+## Request ID: 451ab3c7 
+## Type: ERROR 
+## Date: 2024-05-13,14:14:57.701Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: 985270c0 
+## Request ID: 22860a63 
+## Type: ERROR 
+## Date: 2024-05-13,14:16:56.379Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: 010e8f13 
+## Request ID: 22860a63 
+## Type: ERROR 
+## Date: 2024-05-13,14:16:56.379Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: 8d7d598c 
+## Request ID: 35bf5bf2 
+## Type: ERROR 
+## Date: 2024-05-13,14:17:19.338Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: 5c0310b5 
+## Request ID: 35bf5bf2 
+## Type: ERROR 
+## Date: 2024-05-13,14:17:19.338Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: 13b0e009 
+## Request ID: undefined 
+## Type: SERVER 
+## Date: 2024-05-13,14:17:47.534Z 
+## Message: Error promesa rechazada 
+## Description:  
+
+
+## Error ID: 7696fd5d 
+## Request ID: 626e4ad8 
+## Type: ERROR 
+## Date: 2024-05-13,14:17:47.534Z 
+## Message: Error interno del servidor 
+## Description:  
+
+
+## Error ID: 62422cde 
+## Request ID: undefined 
+## Type: SERVER 
+## Date: 2024-05-13,14:18:43.348Z 
+## Message: Error promesa rechazada 
+## Description:  
+
+
+## Error ID: e58bfdf4 
+## Request ID: 930daf42 
+## Type: ERROR 
+## Date: 2024-05-13,14:18:43.348Z 
+## Message: Error interno del servidor 
+## Description:  
+
+
+## Error ID: 94df2835 
+## Request ID: 916a754e 
+## Type: ERROR 
+## Date: 2024-05-13,14:18:46.596Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: 7eb5cd2e 
+## Request ID: 916a754e 
+## Type: ERROR 
+## Date: 2024-05-13,14:18:46.596Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: db0ff060 
+## Request ID: undefined 
+## Type: SERVER 
+## Date: 2024-05-13,14:19:49.273Z 
+## Message: Error promesa rechazada 
+## Description:  
+
+
+## Error ID: d86b2767 
+## Request ID: 0b596df4 
+## Type: ERROR 
+## Date: 2024-05-13,14:19:49.273Z 
+## Message: Error interno del servidor 
+## Description:  
+
+
+## Error ID: 5fcfded3 
+## Request ID: ee880e10 
+## Type: ERROR 
+## Date: 2024-05-13,14:20:13.920Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: 0eb08209 
+## Request ID: ee880e10 
+## Type: ERROR 
+## Date: 2024-05-13,14:20:13.920Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: b6ba8681 
+## Request ID: undefined 
+## Type: SERVER 
+## Date: 2024-05-13,14:20:19.959Z 
+## Message: Error promesa rechazada 
+## Description:  
+
+
+## Error ID: f49f798b 
+## Request ID: 2864a4bd 
+## Type: ERROR 
+## Date: 2024-05-13,14:20:19.959Z 
+## Message: Error interno del servidor 
+## Description:  
+
+
+## Error ID: 21b74e73 
+## Request ID: undefined 
+## Type: SERVER 
+## Date: 2024-05-13,14:20:35.395Z 
+## Message: Error promesa rechazada 
+## Description:  
+
+
+## Error ID: 22770a5e 
+## Request ID: c972b35e 
+## Type: ERROR 
+## Date: 2024-05-13,14:20:35.395Z 
+## Message: Error interno del servidor 
+## Description:  
+
+
+## Error ID: eed2a6e7 
+## Request ID: eb7a3d80 
+## Type: ERROR 
+## Date: 2024-05-13,14:20:58.181Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: b06b35a6 
+## Request ID: eb7a3d80 
+## Type: ERROR 
+## Date: 2024-05-13,14:20:58.181Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: eca026cd 
+## Request ID: a83c57cc 
+## Type: ERROR 
+## Date: 2024-05-13,14:21:54.696Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: 97740627 
+## Request ID: a83c57cc 
+## Type: ERROR 
+## Date: 2024-05-13,14:21:54.695Z 
+## Message: Error de prueba 
+## Description: RequestError: Error de prueba
+    at ExampleControllerAPI.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:42)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:17:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:13:12)
+    at ExampleControllerAPI.TestError (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\ExampleController.ts:41:16)
+    at asyncWrappedMiddleware (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:159:25)
+    at memberInvoker (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\awilix-express\src\invokers.ts:108:73)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\route.js:149:13) 
+
+
+## Error ID: dd5b9b92 
+## Request ID: undefined 
+## Type: SERVER 
+## Date: 2024-05-13,14:22:00.994Z 
+## Message: {"reason":{},"promise":{}} 
+## Description:  
+
+
+## Error ID: 5b191d6b 
+## Request ID: 9855499e 
+## Type: ERROR 
+## Date: 2024-05-13,14:22:00.994Z 
+## Message: Error interno del servidor 
+## Description:  
+
+
+## Error ID: 61acde64 
+## Request ID: 964f7aab 
+## Type: ERROR 
+## Date: 2024-05-13,19:16:19.241Z 
+## Message: [{"instancePath":"/Email","schemaPath":"#/properties/Email/errorMessage","keyword":"errorMessage","params":{"errors":[{"instancePath":"/Email","schemaPath":"#/properties/Email/format","keyword":"format","params":{"format":"email"},"message":"must match format \"email\"","emUsed":true}]},"message":"El formato de email no es valido"}] 
+## Description: RequestError: [{"instancePath":"/Email","schemaPath":"#/properties/Email/errorMessage","keyword":"errorMessage","params":{"errors":[{"instancePath":"/Email","schemaPath":"#/properties/Email/format","keyword":"format","params":{"format":"email"},"message":"must match format \"email\"","emUsed":true}]},"message":"El formato de email no es valido"}]
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:51:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignUp (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:40:80)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:28:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: da7d86fe 
+## Request ID: b1d8bcae 
+## Type: ERROR 
+## Date: 2024-05-13,20:29:35.126Z 
+## Message: Error GenericRepository Create 
+## Description: RequestError: Error GenericRepository Create
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:85:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 5df5ff13 
+## Request ID: fdb694db 
+## Type: ERROR 
+## Date: 2024-05-13,20:31:21.898Z 
+## Message: Users validation failed: IP_Address: Path `IP_Address` is required. 
+## Description: RequestError: Users validation failed: IP_Address: Path `IP_Address` is required.
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:85:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 08a06b24 
+## Request ID: be7aec87 
+## Type: ERROR 
+## Date: 2024-05-13,20:34:56.365Z 
+## Message: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required. 
+## Description: RequestError: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required.
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:85:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 88d9f6c2 
+## Request ID: 9cb4cf91 
+## Type: ERROR 
+## Date: 2024-05-13,20:35:32.407Z 
+## Message: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required. 
+## Description: RequestError: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required.
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:85:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 976fdcc8 
+## Request ID: b42f3469 
+## Type: ERROR 
+## Date: 2024-05-13,20:36:44.677Z 
+## Message: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required. 
+## Description: RequestError: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required.
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:85:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 582a437e 
+## Request ID: 527696d8 
+## Type: ERROR 
+## Date: 2024-05-13,20:37:26.229Z 
+## Message: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required. 
+## Description: RequestError: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required.
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:86:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: ee1372e6 
+## Request ID: 57694b8c 
+## Type: ERROR 
+## Date: 2024-05-13,20:42:16.152Z 
+## Message: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required. 
+## Description: RequestError: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required.
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:86:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 1519fc87 
+## Request ID: b33c4798 
+## Type: ERROR 
+## Date: 2024-05-13,20:42:46.487Z 
+## Message: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required. 
+## Description: RequestError: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required.
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:86:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 5101a3ad 
+## Request ID: dda166a3 
+## Type: ERROR 
+## Date: 2024-05-13,20:43:22.073Z 
+## Message: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required. 
+## Description: RequestError: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required.
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:86:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 5834f3ef 
+## Request ID: 662758f7 
+## Type: ERROR 
+## Date: 2024-05-13,20:45:00.497Z 
+## Message: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required. 
+## Description: RequestError: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required.
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:86:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 4533806e 
+## Request ID: d034d17a 
+## Type: ERROR 
+## Date: 2024-05-13,20:48:06.199Z 
+## Message: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required. 
+## Description: RequestError: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required.
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:86:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: cb00d0f0 
+## Request ID: 89879c62 
+## Type: ERROR 
+## Date: 2024-05-13,20:49:19.565Z 
+## Message: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required. 
+## Description: RequestError: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required.
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:86:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 368c18d0 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,20:50:10.853Z 
+## Message: Error al validar el api key 
+## Description: RequestError: Error al validar el api key
+    at ApiKeyManager.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:29:15)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:4:12)
+    at ApiKeyManager.ValidateApiKey (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:19:101)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\index.js:346:12) 
+
+
+## Error ID: 126fe635 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,20:50:24.575Z 
+## Message: Error al validar el api key 
+## Description: RequestError: Error al validar el api key
+    at ApiKeyManager.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:29:15)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:4:12)
+    at ApiKeyManager.ValidateApiKey (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:19:101)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\index.js:346:12) 
+
+
+## Error ID: dc4dfe21 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,20:50:26.840Z 
+## Message: Error al validar el api key 
+## Description: RequestError: Error al validar el api key
+    at ApiKeyManager.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:29:15)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:4:12)
+    at ApiKeyManager.ValidateApiKey (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:19:101)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\index.js:346:12) 
+
+
+## Error ID: 15c9034f 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,20:50:27.880Z 
+## Message: Error al validar el api key 
+## Description: RequestError: Error al validar el api key
+    at ApiKeyManager.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:29:15)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:4:12)
+    at ApiKeyManager.ValidateApiKey (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Configuration\api_key.config.ts:19:101)
+    at Layer.handle [as handle_request] (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\express\lib\router\index.js:346:12) 
+
+
+## Error ID: 4f41fd39 
+## Request ID: 8ee8ad1e 
+## Type: ERROR 
+## Date: 2024-05-13,20:50:45.031Z 
+## Message: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required. 
+## Description: RequestError: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required.
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:86:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 7adfcb68 
+## Request ID: cfbd099e 
+## Type: ERROR 
+## Date: 2024-05-13,20:51:46.200Z 
+## Message: E11000 duplicate key error collection: shoebox.users index: Email_1 dup key: { Email: "jimenezg905@gmail.com" } 
+## Description: RequestError: E11000 duplicate key error collection: shoebox.users index: Email_1 dup key: { Email: "jimenezg905@gmail.com" }
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:86:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: f25d7f85 
+## Request ID: 5fd103fe 
+## Type: ERROR 
+## Date: 2024-05-13,20:53:05.854Z 
+## Message: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required. 
+## Description: RequestError: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required.
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:86:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: d9424ac7 
+## Request ID: 385f0e7e 
+## Type: ERROR 
+## Date: 2024-05-13,20:54:08.711Z 
+## Message: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required. 
+## Description: RequestError: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required.
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:86:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 01068a65 
+## Request ID: ff48996d 
+## Type: ERROR 
+## Date: 2024-05-13,20:54:11.842Z 
+## Message: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required. 
+## Description: RequestError: Users validation failed: Password: Path `Password` is required., Email: Path `Email` is required., Type: Path `Type` is required., IP_Address: Path `IP_Address` is required., FullName: Path `FullName` is required.
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:86:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 6c730412 
+## Request ID: a361d863 
+## Type: ERROR 
+## Date: 2024-05-13,21:01:41.482Z 
+## Message: document must have an _id before saving 
+## Description: RequestError: document must have an _id before saving
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:85:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 0462330b 
+## Request ID: 48c6b277 
+## Type: ERROR 
+## Date: 2024-05-13,21:02:00.245Z 
+## Message: document must have an _id before saving 
+## Description: RequestError: document must have an _id before saving
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:85:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 899296af 
+## Request ID: 8dc24921 
+## Type: ERROR 
+## Date: 2024-05-13,21:17:10.106Z 
+## Message: [{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"email"},"message":"must have required property 'email'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"password"},"message":"must have required property 'password'"}] 
+## Description: RequestError: [{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"email"},"message":"must have required property 'email'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"password"},"message":"must have required property 'password'"}]
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:47:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignIn (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:35:81)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:43:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: 72e9e358 
+## Request ID: 736e8206 
+## Type: ERROR 
+## Date: 2024-05-13,21:17:51.231Z 
+## Message: [{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"email"},"message":"must have required property 'email'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"password"},"message":"must have required property 'password'"}] 
+## Description: RequestError: [{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"email"},"message":"must have required property 'email'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"password"},"message":"must have required property 'password'"}]
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:48:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignIn (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:35:81)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:43:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: e867a1cc 
+## Request ID: baad5c1f 
+## Type: ERROR 
+## Date: 2024-05-13,21:18:55.786Z 
+## Message:  
+## Description: RequestError
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:48:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignIn (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:35:81)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:43:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: 63fefffd 
+## Request ID: 152bb7c1 
+## Type: ERROR 
+## Date: 2024-05-13,21:21:24.970Z 
+## Message: [{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"email"},"message":"must have required property 'email'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"password"},"message":"must have required property 'password'"}] 
+## Description: RequestError: [{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"email"},"message":"must have required property 'email'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"password"},"message":"must have required property 'password'"}]
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:48:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignIn (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:35:81)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:43:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: 7c9b7c61 
+## Request ID: 96bfce4c 
+## Type: ERROR 
+## Date: 2024-05-13,21:22:41.443Z 
+## Message: ["must have required property 'email'","must have required property 'password'"] 
+## Description: RequestError: ["must have required property 'email'","must have required property 'password'"]
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:48:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignIn (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:35:81)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:43:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: f63b0921 
+## Request ID: 75fd32dc 
+## Type: ERROR 
+## Date: 2024-05-13,21:23:31.825Z 
+## Message: ["El formato de email es invalido","must be string"] 
+## Description: RequestError: ["El formato de email es invalido","must be string"]
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:48:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignIn (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:35:81)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:43:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: 4f5a19dc 
+## Request ID: f8468cd4 
+## Type: ERROR 
+## Date: 2024-05-13,21:28:42.270Z 
+## Message: [{"message":"El formato de email es invalido"},{"message":"must be string"}] 
+## Description: RequestError: [{"message":"El formato de email es invalido"},{"message":"must be string"}]
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:48:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignIn (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:35:81)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:43:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: c002a801 
+## Request ID: 42d146ca 
+## Type: ERROR 
+## Date: 2024-05-13,21:30:07.042Z 
+## Message: [{"message":"El formato de email es invalido"},{"message":"must be string"}] 
+## Description: RequestError: [{"message":"El formato de email es invalido"},{"message":"must be string"}]
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:48:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignIn (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:35:81)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:43:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: 299e5382 
+## Request ID: b4b82494 
+## Type: ERROR 
+## Date: 2024-05-13,21:33:51.721Z 
+## Message: [object Object],[object Object] 
+## Description: RequestError: [object Object],[object Object]
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:48:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignIn (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:35:81)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:43:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: 22c8bcc2 
+## Request ID: 6b104fb8 
+## Type: ERROR 
+## Date: 2024-05-13,21:34:50.544Z 
+## Message: [object Object] 
+## Description: RequestError: [object Object],[object Object]
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:48:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignIn (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:35:81)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:43:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: 315255b7 
+## Request ID: c8d6d97d 
+## Type: ERROR 
+## Date: 2024-05-13,21:37:42.182Z 
+## Message: "data/email El formato de email es invalido, data/password must be string" 
+## Description: RequestError: "data/email El formato de email es invalido, data/password must be string"
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:48:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignIn (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:35:81)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:43:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: fe04714d 
+## Request ID: 713df9ff 
+## Type: ERROR 
+## Date: 2024-05-13,21:38:13.894Z 
+## Message: data/email El formato de email es invalido, data/password must be string 
+## Description: RequestError: data/email El formato de email es invalido, data/password must be string
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:47:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignIn (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:35:81)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:43:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: 0aa30f17 
+## Request ID: a5629b11 
+## Type: ERROR 
+## Date: 2024-05-13,21:50:46.920Z 
+## Message: data/email El formato de email es invalido, data/password must be string 
+## Description: RequestError: data/email El formato de email es invalido, data/password must be string
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:52:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignIn (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:36:81)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:43:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: 35daadae 
+## Request ID: 2cb36b9d 
+## Type: ERROR 
+## Date: 2024-05-13,21:50:57.582Z 
+## Message: data/email El formato de email es invalido 
+## Description: RequestError: data/email El formato de email es invalido
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:52:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignIn (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:36:81)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:43:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: 74184a2d 
+## Request ID: 4378ff96 
+## Type: ERROR 
+## Date: 2024-05-13,21:52:26.942Z 
+## Message: El usuario ingresado no existe 
+## Description: RequestError: El usuario ingresado no existe
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:53:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 753a6ebb 
+## Request ID: 4151a35b 
+## Type: ERROR 
+## Date: 2024-05-13,21:52:38.875Z 
+## Message: El usuario ingresado no existe 
+## Description: RequestError: El usuario ingresado no existe
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:53:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 69dba8c6 
+## Request ID: 67a1402a 
+## Type: ERROR 
+## Date: 2024-05-13,21:53:08.461Z 
+## Message: El Email o la contraseña son invalidos 
+## Description: RequestError: El Email o la contraseña son invalidos
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:53:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 3471007f 
+## Request ID: 7324a9d2 
+## Type: ERROR 
+## Date: 2024-05-13,21:53:16.543Z 
+## Message: El Email o la contraseña son invalidos 
+## Description: RequestError: El Email o la contraseña son invalidos
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:53:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: db90f722 
+## Request ID: 94c17dba 
+## Type: ERROR 
+## Date: 2024-05-13,21:53:23.853Z 
+## Message: El Email o la contraseña son invalidos 
+## Description: RequestError: El Email o la contraseña son invalidos
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:53:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 7b471758 
+## Request ID: 64a4f92d 
+## Type: ERROR 
+## Date: 2024-05-13,21:53:35.815Z 
+## Message: El Email o la contraseña son invalidos 
+## Description: RequestError: El Email o la contraseña son invalidos
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:53:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: b15b3760 
+## Request ID: 14f89892 
+## Type: ERROR 
+## Date: 2024-05-13,21:53:37.332Z 
+## Message: El Email o la contraseña son invalidos 
+## Description: RequestError: El Email o la contraseña son invalidos
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:53:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 32fd1154 
+## Request ID: 634afa44 
+## Type: ERROR 
+## Date: 2024-05-13,21:54:45.637Z 
+## Message: El Email o la contraseña son invalidos 
+## Description: RequestError: El Email o la contraseña son invalidos
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:56:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: a1526071 
+## Request ID: 19423fab 
+## Type: ERROR 
+## Date: 2024-05-13,21:57:48.797Z 
+## Message: data must NOT have additional properties 
+## Description: RequestError: data must NOT have additional properties
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:56:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignIn (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:36:81)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:43:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: 86ea7a8a 
+## Request ID: 65536c8c 
+## Type: ERROR 
+## Date: 2024-05-13,21:58:22.866Z 
+## Message: data No deben existir propiedades adicionales 
+## Description: RequestError: data No deben existir propiedades adicionales
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:56:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:4:12)
+    at AuthenticationService.SignIn (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:36:81)
+    at AuthenticationController.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:43:55)
+    at Generator.next (<anonymous>)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\API\Controllers\AuthenticationController.ts:17:71
+    at new Promise (<anonymous>) 
+
+
+## Error ID: 79c1b67d 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,21:58:35.574Z 
+## Message: Expected double-quoted property name in JSON at position 73 
+## Description: SyntaxError: Expected double-quoted property name in JSON at position 73
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1589:12) 
+
+
+## Error ID: 7e1adfb6 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,21:58:52.577Z 
+## Message: Expected double-quoted property name in JSON at position 73 
+## Description: SyntaxError: Expected double-quoted property name in JSON at position 73
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1589:12) 
+
+
+## Error ID: 73d3736e 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,22:00:01.350Z 
+## Message: Expected double-quoted property name in JSON at position 73 
+## Description: SyntaxError: Expected double-quoted property name in JSON at position 73
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1589:12) 
+
+
+## Error ID: 729b7958 
+## Request ID: undefined 
+## Type: ERROR 
+## Date: 2024-05-13,22:00:14.804Z 
+## Message: Expected double-quoted property name in JSON at position 73 
+## Description: SyntaxError: Expected double-quoted property name in JSON at position 73
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1589:12) 
+
+
+## Error ID: 310747a1 
+## Request ID: undefined 
+## Type: SERVER 
+## Date: 2024-05-13,22:23:26.304Z 
+## Message: {"reason":{"status":500,"name":"RequestError","path":"C:\\Users\\jimen\\Documents\\AZ\\CodeFiles\\CodeProyects\\NodeJs\\DependencyInjection\\src\\Utils\\EncrypterManager\\EncrypterManager.ts","date":"2024-05-13T22:23:26.291Z"},"promise":{}} 
+## Description:  
+
+
+## Error ID: eb746bc0 
+## Request ID: 337c7580 
+## Type: ERROR 
+## Date: 2024-05-13,22:23:58.189Z 
+## Message: Error al comparar los password 
+## Description: RequestError: Error al comparar los password
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:62:13)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:6:65)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 0a9017d8 
+## Request ID: 6bcd7dc2 
+## Type: ERROR 
+## Date: 2024-05-13,22:25:07.971Z 
+## Message: data and hash arguments required 
+## Description: RequestError: data and hash arguments required
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:62:13)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:6:65)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 2450d897 
+## Request ID: 66d592dc 
+## Type: ERROR 
+## Date: 2024-05-13,22:26:39.702Z 
+## Message: data and hash arguments required 
+## Description: RequestError: data and hash arguments required
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:67:13)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:6:65)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 189f460d 
+## Request ID: 229fbfd9 
+## Type: ERROR 
+## Date: 2024-05-13,22:26:42.418Z 
+## Message: data and hash arguments required 
+## Description: RequestError: data and hash arguments required
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:67:13)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:6:65)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: 7e3b17e6 
+## Request ID: fcc7601b 
+## Type: ERROR 
+## Date: 2024-05-13,22:27:16.506Z 
+## Message: data and hash arguments required 
+## Description: RequestError: data and hash arguments required
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:69:13)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:6:65)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+
+
+## Error ID: a9ccc57a 
+## Request ID: 784edd80 
+## Type: ERROR 
+## Date: 2024-05-13,22:27:45.883Z 
+## Message: La contraseña es incorrecta 
+## Description: RequestError: La contraseña es incorrecta
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:69:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58) 
+
+
+## Error ID: a4b60071 
+## Request ID: 76f6c6b4 
+## Type: ERROR 
+## Date: 2024-05-13,22:27:55.991Z 
+## Message: La contraseña es incorrecta 
+## Description: RequestError: La contraseña es incorrecta
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:69:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58) 
+
+
+## Error ID: c61904a3 
+## Request ID: 81b6ff0f 
+## Type: ERROR 
+## Date: 2024-05-13,22:27:59.228Z 
+## Message: La contraseña es incorrecta 
+## Description: RequestError: La contraseña es incorrecta
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:69:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58) 
+
+
+## Error ID: b157523e 
+## Request ID: 241cdee1 
+## Type: ERROR 
+## Date: 2024-05-13,22:28:00.333Z 
+## Message: La contraseña es incorrecta 
+## Description: RequestError: La contraseña es incorrecta
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:69:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58) 
+
+
+## Error ID: 36aa14a6 
+## Request ID: 689dc20e 
+## Type: ERROR 
+## Date: 2024-05-13,22:29:34.099Z 
+## Message: La contraseña es incorrecta 
+## Description: RequestError: La contraseña es incorrecta
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:69:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58) 
+
+
+## Error ID: 088fd4d4 
+## Request ID: ecb52615 
+## Type: ERROR 
+## Date: 2024-05-13,22:29:40.803Z 
+## Message: La contraseña es incorrecta 
+## Description: RequestError: La contraseña es incorrecta
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:69:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58) 
+
+
+## Error ID: 3ca3b1d7 
+## Request ID: 3a310fb1 
+## Type: ERROR 
+## Date: 2024-05-13,22:32:33.068Z 
+## Message: La contraseña es incorrecta 
+## Description: RequestError: La contraseña es incorrecta
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:69:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58) 
+
+
+## Error ID: 9b23496a 
+## Request ID: cbe69597 
+## Type: ERROR 
+## Date: 2024-05-13,22:33:32.466Z 
+## Message: La contraseña es incorrecta 
+## Description: RequestError: La contraseña es incorrecta
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:69:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58) 
+
+
+## Error ID: 7a26b126 
+## Request ID: 430e7b0d 
+## Type: ERROR 
+## Date: 2024-05-13,22:33:43.933Z 
+## Message: La contraseña es incorrecta 
+## Description: RequestError: La contraseña es incorrecta
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:69:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58) 
+
+
+## Error ID: b907015d 
+## Request ID: 07226116 
+## Type: ERROR 
+## Date: 2024-05-13,22:34:33.637Z 
+## Message: La contraseña es incorrecta 
+## Description: RequestError: La contraseña es incorrecta
+    at AuthenticationService.<anonymous> (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:69:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\jimen\Documents\AZ\CodeFiles\CodeProyects\NodeJs\DependencyInjection\src\Aplicacion\Servicios\AuthenticationService.ts:5:58) 
+
